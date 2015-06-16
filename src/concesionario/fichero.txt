@@ -1,0 +1,6 @@
+citroen saxo, 1500
+citroen c4, 5000
+citroen c3, 2000
+citroen c2, 2500
+citroen c1, 5000
+citroen c4 picasso, 3000
